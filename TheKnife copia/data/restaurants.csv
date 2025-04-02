@@ -1,0 +1,4 @@
+nome,nazione,citta,indirizzo,latitudine,longitudine,fasciaPrezzo,delivery,prenotazioneOnline,tipoCucina,proprietario
+La Pergola,Italia,Roma,Via Alberto Cadlolo 101,41.9186,12.4474,150,false,true,Italiana,mario_rossi
+Cracco,Italia,Milano,Galleria Vittorio Emanuele II,45.4641,9.1918,200,false,true,Contemporanea,chef_cracco
+Pizzeria Da Michele,Italia,Napoli,Via Cesare Sersale 1,40.8505,14.2611,30,true,false,Pizza,michele_condurro
