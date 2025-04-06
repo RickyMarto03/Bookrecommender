@@ -1,0 +1,53 @@
+nome,nazione,citta,indirizzo,latitudine,longitudine,fasciaPrezzo,delivery,prenotazioneOnline,tipoCucina,proprietario
+La Pergola,Italia,Roma,Via Alberto Cadlolo 101,41.9186,12.4474,150,false,true,Italiana,mario_rossi
+Cracco,Italia,Milano,Galleria Vittorio Emanuele II,45.4641,9.1918,200,false,true,Contemporanea,chef_cracco
+Pizzeria Da Michele,Italia,Napoli,Via Cesare Sersale 1,40.8505,14.2611,30,true,false,Pizza,michele_condurro
+Il Luogo di Aimo e Nadia,Italia,Milano,Via Montecuccoli 6,45.4689,9.1428,120,false,true,Italiana,aimo_chef
+Seta by Antonio Guida,Italia,Milano,Via Andegari 9,45.4683,9.1891,180,false,true,Mediterranea,guida_chef
+D'O,Italia,San Pietro all'Olmo,Via Magenta 18,45.4789,9.0234,90,false,true,Innovativa,oldani_d
+Dal Pescatore,Italia,Canneto sull'Oglio,Località Runate 15,45.1498,10.4728,150,false,true,Italiana,santini_chef
+Enrico Bartolini MUDEC,Italia,Milano,Via Tortona 56,45.4515,9.1611,160,false,true,Contemporanea,bartolini_e
+Berton,Italia,Milano,Via Mike Bongiorno 13,45.4857,9.1912,130,false,true,Contemporanea,berton_a
+Vun Andrea Aprea,Italia,Milano,Via Silvio Pellico 3,45.4657,9.1869,140,false,true,Mediterranea,aprea_a
+Innocenti Evasioni,Italia,Milano,Via Privata della Bindellina,45.4989,9.1431,80,false,true,Italiana,innocenti_chef
+Il Portico,Italia,Bergamo,Via Borgo Palazzo 71,45.6947,9.6767,70,true,true,Italiana,portico_chef
+Vicolo dei Lavandai,Italia,Milano,Alzaia Naviglio Grande 14,45.4579,9.1723,65,true,true,Lombarda,lavandai_chef
+Ratanà,Italia,Milano,Via Gaetano de Castillia 28,45.4871,9.1891,70,true,true,Milanese,ratana_chef
+Trippa,Italia,Milano,Via Giorgio Vasari 3,45.4504,9.2151,60,true,true,Tradizionale,trippa_chef
+28 Posti,Italia,Milano,Via Corsico 1,45.4515,9.1734,75,false,true,Fusion,posti_chef
+Contraste,Italia,Milano,Via Meda 2,45.4408,9.1801,130,false,true,Creativa,contraste_chef
+Al Pont de Ferr,Italia,Milano,Ripa di Porta Ticinese 55,45.4507,9.1779,85,true,true,Milanese,ferr_chef
+Il Pagliaccio,Italia,Roma,Via dei Banchi Vecchi 129a,41.8967,12.4707,160,false,true,Creativa,genovese_chef
+Roscioli,Italia,Roma,Via dei Giubbonari 21,41.8945,12.4737,70,true,true,Romana,roscioli_chef
+Pipero Roma,Italia,Roma,Corso Vittorio Emanuele II 250,41.8957,12.4716,140,false,true,Contemporanea,pipero_chef
+Aroma,Italia,Roma,Via Labicana 125,41.8894,12.4957,130,false,true,Mediterranea,aroma_chef
+Metamorfosi,Italia,Roma,Via Giovanni Antonelli 30,41.9183,12.4977,120,false,true,Innovativa,meta_chef
+All'Oro,Italia,Roma,Via Giuseppe Pisanelli 23,41.9136,12.4665,110,false,true,Creativa,oro_chef
+Armando al Pantheon,Italia,Roma,Salita dei Crescenzi 31,41.8987,12.4768,50,false,true,Romana,armando_chef
+Roscioli Ristorante,Italia,Roma,Via dei Giubbonari 21,41.8945,12.4737,65,true,true,Italiana,roscioli_r
+Glass Hostaria,Italia,Roma,Vicolo del Cinque 58,41.8895,12.4697,90,false,true,Contemporanea,glass_chef
+Pierluigi,Italia,Roma,Piazza de' Ricci 144,41.8967,12.4707,100,true,true,Pesce,pierluigi_chef
+Antica Osteria del Teatro,Italia,Piacenza,Via Verdi 16,45.0521,9.6933,70,true,true,Emiliana,teatro_chef
+Joia,Italia,Milano,Via Panfilo Castaldi 18,45.4757,9.2027,90,false,true,Vegetariana,leemann_chef
+Tano Passami l'Olio,Italia,Milano,Via Villoresi 16,45.4849,9.1671,85,false,true,Mediterranea,tano_chef
+L'Alchimia,Italia,Milano,Viale Premuda 34,45.4684,9.2049,95,false,true,Contemporanea,alchimia_chef
+Sadler,Italia,Milano,Via Ascanio Sforza 77,45.4501,9.1741,130,false,true,Creativa,sadler_chef
+Felix Lo Basso,Italia,Milano,Corso Venezia 52,45.4708,9.2008,140,false,true,Innovativa,felix_chef
+Essenza,Italia,Milano,Via Marghera 34,45.4667,9.1556,80,true,true,Fusion,essenza_chef
+La Brisa,Italia,Milano,Via Brisa 15,45.4676,9.1778,110,false,true,Mediterranea,brisa_chef
+Berton al Lago,Italia,Como,Via Regina 40,45.8429,9.0730,150,false,true,Lacustre,berton_lago
+Romeo Chef & Baker,Italia,Roma,Via Ostiense 263,41.8608,12.4841,85,true,true,Contemporanea,romeo_chef
+Bistrot 64,Italia,Roma,Via Guglielmo Calderini 64,41.9228,12.4673,95,false,true,Fusion,bistrot_chef
+Il Sanlorenzo,Italia,Roma,Via dei Chiavari 4/5,41.8949,12.4744,120,false,true,Pesce,sanlorenzo_chef
+Enoteca La Torre,Italia,Roma,Lungotevere delle Armi 23,41.9172,12.4669,130,false,true,Creativa,torre_chef
+Per Me,Italia,Roma,Vicolo del Malpasso 9,41.8957,12.4716,110,false,true,Mediterranea,perme_chef
+Il Convivio Troiani,Italia,Roma,Vicolo dei Soldati 31,41.9012,12.4724,140,false,true,Innovativa,troiani_chef
+La Terrazza,Italia,Roma,Via Ludovisi 49,41.9063,12.4886,160,false,true,Mediterranea,terrazza_chef
+Marzapane,Italia,Roma,Via Velletri 39,41.9123,12.5012,80,true,true,Contemporanea,marza_chef
+Seafood Bar,Italia,Roma,Via del Gambero 14,41.9022,12.4798,90,true,true,Pesce,seafood_chef
+Acquolina,Italia,Roma,Via del Vantaggio 14,41.9089,12.4759,120,false,true,Pesce,acquolina_chef
+Osteria Francescana,Italia,Modena,Via Stella 22,44.6431,10.9266,300,false,true,Contemporanea,bottura_chef
+Le Calandre,Italia,Padova,Via Liguria 1,45.4463,11.8861,250,false,true,Creativa,alajmo_chef
+Piazza Duomo,Italia,Alba,Piazza Risorgimento 4,44.7003,8.0356,220,false,true,Piemontese,ceretto_chef
+Uliassi,Italia,Senigallia,Via Banchina di Levante 6,43.7219,13.2227,180,false,true,Pesce,uliassi_chef
+St. Hubertus,Italia,San Cassiano,Strada Micurà de Rü 20,46.5715,11.9347,250,false,true,Alpina,niederkofler_chef
