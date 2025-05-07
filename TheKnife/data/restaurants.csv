@@ -1,0 +1,83 @@
+nome,nazione,citta,indirizzo,latitudine,longitudine,fasciaPrezzo,delivery,prenotazioneOnline,tipoCucina,proprietario
+La Pergola,Italia,Roma,Via Alberto Cadlolo 101,41.9186,12.4474,150.0,false,true,Italiana,mario_rossi
+Cracco,Italia,Milano,Galleria Vittorio Emanuele II,45.4641,9.1918,200.0,false,true,Contemporanea,chef_cracco
+Pizzeria Da Michele,Italia,Napoli,Via Cesare Sersale 1,40.8505,14.2611,30.0,true,false,Pizza,michele_condurro
+Il Luogo di Aimo e Nadia,Italia,Milano,Via Montecuccoli 6,45.4689,9.1428,120.0,false,true,Italiana,aimo_chef
+Seta by Antonio Guida,Italia,Milano,Via Andegari 9,45.4683,9.1891,180.0,false,true,Mediterranea,guida_chef
+D'O,Italia,San Pietro all'Olmo,Via Magenta 18,45.4789,9.0234,90.0,false,true,Innovativa,oldani_d
+Dal Pescatore,Italia,Canneto sull'Oglio,Località Runate 15,45.1498,10.4728,150.0,false,true,Italiana,santini_chef
+Enrico Bartolini MUDEC,Italia,Milano,Via Tortona 56,45.4515,9.1611,160.0,false,true,Contemporanea,bartolini_e
+Berton,Italia,Milano,Via Mike Bongiorno 13,45.4857,9.1912,130.0,false,true,Contemporanea,berton_a
+Vun Andrea Aprea,Italia,Milano,Via Silvio Pellico 3,45.4657,9.1869,140.0,false,true,Mediterranea,aprea_a
+Innocenti Evasioni,Italia,Milano,Via Privata della Bindellina,45.4989,9.1431,80.0,false,true,Italiana,innocenti_chef
+Il Portico,Italia,Bergamo,Via Borgo Palazzo 71,45.6947,9.6767,70.0,true,true,Italiana,portico_chef
+Vicolo dei Lavandai,Italia,Milano,Alzaia Naviglio Grande 14,45.4579,9.1723,65.0,true,true,Lombarda,lavandai_chef
+Ratanà,Italia,Milano,Via Gaetano de Castillia 28,45.4871,9.1891,70.0,true,true,Milanese,ratana_chef
+Trippa,Italia,Milano,Via Giorgio Vasari 3,45.4504,9.2151,60.0,true,true,Tradizionale,trippa_chef
+28 Posti,Italia,Milano,Via Corsico 1,45.4515,9.1734,75.0,false,true,Fusion,posti_chef
+Contraste,Italia,Milano,Via Meda 2,45.4408,9.1801,130.0,false,true,Creativa,contraste_chef
+Al Pont de Ferr,Italia,Milano,Ripa di Porta Ticinese 55,45.4507,9.1779,85.0,true,true,Milanese,ferr_chef
+Il Pagliaccio,Italia,Roma,Via dei Banchi Vecchi 129a,41.8967,12.4707,160.0,false,true,Creativa,genovese_chef
+Roscioli,Italia,Roma,Via dei Giubbonari 21,41.8945,12.4737,70.0,true,true,Romana,roscioli_chef
+Pipero Roma,Italia,Roma,Corso Vittorio Emanuele II 250,41.8957,12.4716,140.0,false,true,Contemporanea,pipero_chef
+Aroma,Italia,Roma,Via Labicana 125,41.8894,12.4957,130.0,false,true,Mediterranea,aroma_chef
+Metamorfosi,Italia,Roma,Via Giovanni Antonelli 30,41.9183,12.4977,120.0,false,true,Innovativa,meta_chef
+All'Oro,Italia,Roma,Via Giuseppe Pisanelli 23,41.9136,12.4665,110.0,false,true,Creativa,oro_chef
+Armando al Pantheon,Italia,Roma,Salita dei Crescenzi 31,41.8987,12.4768,50.0,false,true,Romana,armando_chef
+Roscioli Ristorante,Italia,Roma,Via dei Giubbonari 21,41.8945,12.4737,65.0,true,true,Italiana,roscioli_r
+Glass Hostaria,Italia,Roma,Vicolo del Cinque 58,41.8895,12.4697,90.0,false,true,Contemporanea,glass_chef
+Pierluigi,Italia,Roma,Piazza de' Ricci 144,41.8967,12.4707,100.0,true,true,Pesce,pierluigi_chef
+Antica Osteria del Teatro,Italia,Piacenza,Via Verdi 16,45.0521,9.6933,70.0,true,true,Emiliana,teatro_chef
+Joia,Italia,Milano,Via Panfilo Castaldi 18,45.4757,9.2027,90.0,false,true,Vegetariana,leemann_chef
+Tano Passami l'Olio,Italia,Milano,Via Villoresi 16,45.4849,9.1671,85.0,false,true,Mediterranea,tano_chef
+L'Alchimia,Italia,Milano,Viale Premuda 34,45.4684,9.2049,95.0,false,true,Contemporanea,alchimia_chef
+Sadler,Italia,Milano,Via Ascanio Sforza 77,45.4501,9.1741,130.0,false,true,Creativa,sadler_chef
+Felix Lo Basso,Italia,Milano,Corso Venezia 52,45.4708,9.2008,140.0,false,true,Innovativa,felix_chef
+Essenza,Italia,Milano,Via Marghera 34,45.4667,9.1556,80.0,true,true,Fusion,essenza_chef
+La Brisa,Italia,Milano,Via Brisa 15,45.4676,9.1778,110.0,false,true,Mediterranea,brisa_chef
+Berton al Lago,Italia,Como,Via Regina 40,45.8429,9.073,150.0,false,true,Lacustre,berton_lago
+Romeo Chef & Baker,Italia,Roma,Via Ostiense 263,41.8608,12.4841,85.0,true,true,Contemporanea,romeo_chef
+Bistrot 64,Italia,Roma,Via Guglielmo Calderini 64,41.9228,12.4673,95.0,false,true,Fusion,bistrot_chef
+Il Sanlorenzo,Italia,Roma,Via dei Chiavari 4/5,41.8949,12.4744,120.0,false,true,Pesce,sanlorenzo_chef
+Enoteca La Torre,Italia,Roma,Lungotevere delle Armi 23,41.9172,12.4669,130.0,false,true,Creativa,torre_chef
+Per Me,Italia,Roma,Vicolo del Malpasso 9,41.8957,12.4716,110.0,false,true,Mediterranea,perme_chef
+Il Convivio Troiani,Italia,Roma,Vicolo dei Soldati 31,41.9012,12.4724,140.0,false,true,Innovativa,troiani_chef
+La Terrazza,Italia,Roma,Via Ludovisi 49,41.9063,12.4886,160.0,false,true,Mediterranea,terrazza_chef
+Marzapane,Italia,Roma,Via Velletri 39,41.9123,12.5012,80.0,true,true,Contemporanea,marza_chef
+Seafood Bar,Italia,Roma,Via del Gambero 14,41.9022,12.4798,90.0,true,true,Pesce,seafood_chef
+Acquolina,Italia,Roma,Via del Vantaggio 14,41.9089,12.4759,120.0,false,true,Pesce,acquolina_chef
+Osteria Francescana,Italia,Modena,Via Stella 22,44.6431,10.9266,300.0,false,true,Contemporanea,bottura_chef
+Le Calandre,Italia,Padova,Via Liguria 1,45.4463,11.8861,250.0,false,true,Creativa,alajmo_chef
+Piazza Duomo,Italia,Alba,Piazza Risorgimento 4,44.7003,8.0356,220.0,false,true,Piemontese,ceretto_chef
+Uliassi,Italia,Senigallia,Via Banchina di Levante 6,43.7219,13.2227,180.0,false,true,Pesce,uliassi_chef
+St. Hubertus,Italia,San Cassiano,Strada Micurà de Rü 20,46.5715,11.9347,250.0,false,true,Alpina,niederkofler_chef
+Ai Pescatori,Italia,Pietra Ligure,Lungomare XX Settembre 23,44.1483,8.2853,60.0,true,true,Ligure,pescatori_chef
+La Locanda del Conte,Italia,Pietra Ligure,Via Garibaldi 12,44.1494,8.2817,75.0,false,true,Ligure,conte_chef
+Osteria del Porto,Italia,Loano,Via dei Pescatori 5,44.1302,8.2573,55.0,true,true,Pesce,porto_chef
+L'Anfora,Italia,Pietra Ligure,Piazza Vittorio Emanuele 23,44.1486,8.2836,65.0,true,true,Mediterranea,anfora_chef
+Marè,Italia,Loano,Lungomare Nazario Sauro 108,44.1317,8.2567,80.0,false,true,Pesce,mare_chef
+La Buca,Italia,Pietra Ligure,Via Cavour 15,44.1491,8.2825,45.0,true,true,Ligure,buca_chef
+Ristorante Perazzo,Italia,Loano,Via Garibaldi 72,44.1323,8.2601,70.0,false,true,Ligure,perazzo_chef
+Da U Battitu,Italia,Pietra Ligure,Via Matteotti 33,44.1488,8.2831,50.0,true,true,Ligure,battitu_chef
+Il Veliero,Italia,Loano,Molo Doria 23,44.1297,8.2564,85.0,false,true,Pesce,veliero_chef
+Trattoria del Mare,Italia,Pietra Ligure,Via Mazzini 45,44.1487,8.2842,40.0,true,true,Ligure,trat_mare
+A Pippo,Italia,Pietra Ligure,Via della Cornice 12,44.1496,8.2819,55.0,true,true,Ligure,pippo_chef
+Ristorante Lino,Italia,Loano,Via dei Doria 34,44.1312,8.2588,65.0,true,true,Pesce,lino_chef
+La Sirena,Italia,Pietra Ligure,Lungomare Don Giovanni Bado 5,44.1481,8.2851,70.0,false,true,Pesce,sirena_chef
+Bagni Delfino,Italia,Loano,Lungomare Garrassini 24,44.1309,8.2571,45.0,true,true,Ligure,delfino_chef
+Profumo di Mare,Italia,Pietra Ligure,Via Cesare Battisti 8,44.1489,8.2833,60.0,true,true,Pesce,profumo_chef
+Da Mario,Italia,Loano,Via Aurelia 145,44.1328,8.2612,50.0,true,true,Ligure,mario_chef
+Osteria del Canto,Italia,Pietra Ligure,Via Veneto 28,44.1492,8.2828,55.0,true,true,Ligure,canto_chef
+Il Gabbiano,Italia,Loano,Lungomare Nazario Sauro 45,44.1315,8.2569,75.0,false,true,Pesce,gabbiano_chef
+Da Teresa,Italia,Pietra Ligure,Via della Libertà 15,44.1485,8.2838,45.0,true,true,Tradizionale,teresa_chef
+La Cambusa,Italia,Loano,Via del Porto 12,44.1301,8.2575,65.0,true,true,Pesce,cambusa_chef
+La Grotta,Italia,Borgio Verezzi,Via Grotta 12,44.1592,8.3095,85.0,false,true,Ligure,grotta_chef
+La Vecchia Fornace,Italia,Borgio Verezzi,Via IV Novembre 33,44.1587,8.3082,65.0,true,true,Ligure,fornace_chef
+Il Capriccio,Italia,Borghetto Santo Spirito,Via Roma 45,44.1149,8.2424,55.0,true,true,Pesce,capriccio_chef
+Cavalluccio Marino,Italia,Borghetto Santo Spirito,Lungomare Matteotti 15,44.1142,8.2417,70.0,false,true,Pesce,cavalluccio_chef
+La Torre Saracena,Italia,Borgio Verezzi,Via alla Torre 8,44.1589,8.3087,90.0,false,true,Mediterranea,torre_s_chef
+Osteria del Teatro,Italia,Borgio Verezzi,Piazza Santa Caterina 1,44.1584,8.3079,75.0,false,true,Ligure,teatro_b_chef
+Il Molo,Italia,Borghetto Santo Spirito,Via del Porto 22,44.1145,8.2421,60.0,true,true,Pesce,molo_chef
+Trattoria da Gio,Italia,Borgio Verezzi,Via Fiume 10,44.1586,8.3084,50.0,true,true,Ligure,gio_chef
+Mare Blu,Italia,Borghetto Santo Spirito,Lungomare Colombo 33,44.1144,8.2419,65.0,true,true,Pesce,mare_blu_chef
+Grotta Marina,Italia,Borgio Verezzi,Via della Marina 5,44.1591,8.3093,80.0,false,true,Pesce,grotta_m_chef
